@@ -1,2 +1,2 @@
-# Credit-Card-Validator-Proyect
-A Codecademy's JS proyect
+# Credit-Card-Validator-Project
+A Codecademy's JS project
